@@ -1,6 +1,6 @@
 # News Website Template
 
-## News website template fully responsible.
+## News website template fully responsive
 
 ### Desktop
 
